@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export const Home = () => {
   return (
     <div className="min-h-[70vh] flex flex-col items-center justify-center text-center">
-      <h2 className="text-3xl sm:text-4xl font-bold mb-4 text-gray-900">Welcome to RAG Notes</h2>
+      <h2 className="text-3xl sm:text-4xl font-bold mb-4 text-gray-900">Welcome to JSR Notes</h2>
       <p className="max-w-2xl text-gray-600 mb-8 px-4">
         AI-powered note-taking for developers. Organize your thoughts, generate content, and share your knowledge.
       </p>

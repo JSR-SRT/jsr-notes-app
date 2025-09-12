@@ -16,7 +16,7 @@ export const Profile = () => {
     <div className="space-y-8">
       <div>
         <h2 className="text-2xl sm:text-3xl font-bold">
-          JSR's Public Profile
+          arm's Public Profile
         </h2>
         <p className="text-sm text-gray-600 mt-1">Email: {email}</p>
       </div>

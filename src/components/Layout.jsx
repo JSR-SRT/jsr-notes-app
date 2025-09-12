@@ -32,7 +32,7 @@ const Layout = () => {
         <div className="max-w-6xl mx-auto flex items-center justify-between">
           <Link to="/" className="flex items-center gap-2 font-bold">
             <NotebookText size={20} className="text-gray-900" />
-            <span>RAG Notes</span>
+            <span>JSR Notes</span>
           </Link>
 
           {/* เมนูบน Auth pages */}
